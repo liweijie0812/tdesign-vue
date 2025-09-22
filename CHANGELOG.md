@@ -6,6 +6,11 @@ docClass: timeline
 ---
 
 
+## 🌈 1.14.1 `2025-09-22` 
+### 🐞 Bug Fixes
+- `Watermark`: 修复 `1.14.0` 版本中多次引入水印组件出现2节点渲染颜色过深的问题 @uyarn ([#3721](https://github.com/Tencent/tdesign-vue/pull/3721))
+
+
 ## 🌈 1.14.0 `2025-09-19` 
 ### 🚀 Features
 - `Icon`： @uyarn 
